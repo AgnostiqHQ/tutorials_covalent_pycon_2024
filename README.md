@@ -2,6 +2,10 @@
 
 This repository contains a [*Covalent Cloud*](https://www.covalent.xyz/cloud/) Jupyter notebook that creates an AI model foundry for zero-data fine-tuning.
 
+<div align="center">
+  <img src="./assets/overview.png" alt="Zero-Data AI Model Foundry" height=700px>
+</div>
+
 ## Context
 
 The example here was prepared for [PyCon 2024](https://us.pycon.org/2024/) in Pittsburgh, PA.
