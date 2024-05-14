@@ -13,7 +13,7 @@ The example here was prepared for [PyCon 2024](https://us.pycon.org/2024/) in Pi
 Open the Jupyter notebook in your browser (or in an IDE).
 
 ```
-jupyter notebook covalent-zero-data-ai-model-foundry.ipynb
+jupyter notebook zero-data-model-foundry.ipynb
 ```
 
 ### To run the notebook
@@ -37,5 +37,5 @@ conda activate covalent-pycon-2024
 4. Open the Jupyter notebook in your browser (or in an IDE).
 
 ```
-jupyter notebook covalent-zero-data-ai-model-foundry.ipynb
+jupyter notebook zero-data-model-foundry.ipynb
 ```
