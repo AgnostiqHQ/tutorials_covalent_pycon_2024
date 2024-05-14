@@ -20,7 +20,7 @@ jupyter notebook zero-data-model-foundry.ipynb
 
 **Running the notebook requires a [Covalent Cloud account](https://app.covalent.xyz/register).**
 
-1. Log in and copy your API key from the Covalent Cloud dashboard. Paste the key as the value of the `CC_API_KEY` variable in the `environment.yml` file.
+1. Log in and copy your API key from the Covalent Cloud dashboard. Paste the key as the value `CC_API_KEY` in the `environment.yml` file.
 
 2. Create a conda environment using the `environment.yml` file.
 
