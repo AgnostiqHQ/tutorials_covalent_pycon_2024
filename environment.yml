@@ -2,6 +2,7 @@ name: covalent-pycon-2024
 dependencies:
   - python=3.10
   - notebook
+  - pip
   - pip:
     - covalent-cloud==0.65.1
     - datasets==2.18.0
