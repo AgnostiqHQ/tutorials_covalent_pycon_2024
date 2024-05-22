@@ -3,7 +3,7 @@
 This repository contains a [*Covalent Cloud*](https://www.covalent.xyz/cloud/) Jupyter notebook that creates an AI model foundry for zero-data fine-tuning.
 
 <div align="center">
-  <img src="./assets/overview.png" alt="Zero-Data AI Model Foundry" height=700px>
+  <img src="./assets/overview_dark_mode.png" alt="Zero-Data AI Model Foundry" height=700px>
 </div>
 
 ## Context
